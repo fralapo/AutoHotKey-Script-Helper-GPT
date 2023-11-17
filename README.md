@@ -10,6 +10,7 @@ AutoHotKey Script Helper is a specialized GPT designed to assist in creating, op
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Knowledge](#knowledge)
 
 ## Features
 
@@ -25,3 +26,15 @@ Access AutoHotKey Script Helper [here](https://chat.openai.com/g/g-QWH6EABb2-aut
 ## Usage
 
 Detailed instructions for interacting with the GPT, including basic commands and initiation steps.
+
+## Knowledge
+
+The training of AutoHotKey Script Helper GPT includes an extensive collection of resources on AutoHotkey. This includes:
+
+- "A Beginner's Guide to AutoHotkey" by Jack Dunning
+- AutoHotkey documentation resources
+- "AutoHotkey Applications" by Jack Dunning
+- "AutoHotkey Tricks You Ought To Do With Windows" by Jack Dunning
+- "Beginning AutoHotkey Hotstrings" and more.
+
+These resources are integral in providing the GPT with a comprehensive understanding of AutoHotkey scripting, allowing it to offer accurate and detailed assistance.
