@@ -1,7 +1,3 @@
-Understood. Here's the revised README without the "Contributors" section:
-
----
-
 # AutoHotKey Script Helper
 
 ## Introduction
