@@ -37,7 +37,7 @@ The AutoHotKey Script Helper is your go-to GPT-powered assistant for mastering A
 
 ### Installation
 
-Access AutoHotKey Script Helper [here](https://chat.openai.com/g/g-QWH6EABb2-autohotkey-script-helper/c/15888edd-4e84-4cf6-9037-220db7e7c70e). Requires GPT Plus subscription.
+Access AutoHotKey Script Helper [here](https://chat.openai.com/g/g-QWH6EABb2-autohotkey-script-helper). Requires GPT Plus subscription.
 
 ### Usage
 
