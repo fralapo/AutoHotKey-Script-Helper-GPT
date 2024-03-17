@@ -1,4 +1,4 @@
-# AutoHotKey Script Helper
+# # <img src="icon.png" width="50" alt="AutoHotKey Script Helper Icon"> AutoHotKey Script Helper
 
 ## Introduction
 
@@ -65,7 +65,3 @@ For assistance with issues, consult our FAQs and forums. For unresolved queries,
 ### Contributing
 
 Contribute to a project that’s shaping the future of Windows automation. Visit our GitHub page to get started.
-
-## License
-
-The AutoHotKey Script Helper is distributed under the MIT License. For full license terms, see the [LICENSE](LICENSE) file.
