@@ -1,4 +1,4 @@
-# # <img src="icon.png" width="50" alt="AutoHotKey Script Helper Icon"> AutoHotKey Script Helper
+# <img src="icon.png" width="50" alt="AutoHotKey Script Helper Icon"> AutoHotKey Script Helper
 
 ## Introduction
 
