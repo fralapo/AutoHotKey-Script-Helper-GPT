@@ -19,7 +19,6 @@ The AutoHotKey Script Helper is your go-to GPT-powered assistant for mastering A
 - [Support](#support)
   - [Troubleshooting](#troubleshooting)
   - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
